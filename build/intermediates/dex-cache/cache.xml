@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android project\XMLJDOMParser\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7a56fd1a5e67d82afa9d2740193f8097b1bc9cb4">
+        <dex dex="E:\Android project\XMLJDOMParser\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_474f4b8b5753a52b4a743ccf7781f08007cc6324.jar" />
+    </item>
+    <item
+        jar="E:\Android project\XMLJDOMParser\app\libs\jdom-2.0.3.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9f6909efb7121532c8dd5c2797ed35a5dddc120d">
+        <dex dex="E:\Android project\XMLJDOMParser\app\build\intermediates\pre-dexed\debug\jdom-2.0.3_5c238681d792ef8381d2891b56a78d56a500c607.jar" />
+    </item>
+    <item
+        jar="E:\Android project\XMLJDOMParser\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fbc0619ca9af74454c4de0590edaf3c687628ebb">
+        <dex dex="E:\Android project\XMLJDOMParser\app\build\intermediates\pre-dexed\debug\instant-run_ed468e341d2a349195cf2ebb69f85988fdd399dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\PRATIBHA\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\Android project\XMLJDOMParser\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_59b86e389e3e85e3321bc88958e6824791fcf1ca.jar" />
+    </item>
+
+</items>
