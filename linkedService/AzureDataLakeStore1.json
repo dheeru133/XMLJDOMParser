@@ -1,0 +1,13 @@
+{
+	"name": "AzureDataLakeStore1",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"type": "AzureDataLakeStore",
+		"typeProperties": {
+			"dataLakeStoreUri": "https://devrcp.azuredatalakestore.net/webhdfs/v1",
+			"tenant": "7c72e358-a04f-45f1-93b4-5d67d9a7e6b6",
+			"subscriptionId": "aa8bd28c-34d4-4892-b43b-ecb77ca936b4",
+			"resourceGroupName": "freetrialresource"
+		}
+	}
+}
